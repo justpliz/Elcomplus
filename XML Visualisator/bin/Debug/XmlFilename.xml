@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<branches>
+		<branch>
+			<branches>
+				<branch>
+					<leaves />
+				</branch>
+				<branch>
+					<leaves>
+						<leaf color="yellow"/>
+						<leaf color="red"/>
+						<leaf color="yellow"/>
+						<leaf color="yellow"/>
+						<leaf color="green"/>
+					</leaves>
+				</branch>
+			</branches>
+			<leaves>
+				<leaf color="red"/>
+				<leaf color="yellow"/>
+				<leaf color="green"/>
+			</leaves>
+		</branch>
+		<branch>
+			<branches>
+				<leaves>
+					<leaf color="red"/>
+				</leaves>
+			</branches>
+		</branch>
+		<branch>
+			<leaves>
+				<leaf color="yellow"/>
+			</leaves>
+		</branch>
+		<branch />
+	</branches>
+</root>

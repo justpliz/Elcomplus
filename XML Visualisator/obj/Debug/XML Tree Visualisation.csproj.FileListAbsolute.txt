@@ -1,0 +1,34 @@
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\bin\Debug\XML Tree Visualisation.exe.config
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\bin\Debug\XML Tree Visualisation.exe
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\bin\Debug\XML Tree Visualisation.pdb
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.csprojAssemblyReference.cache
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\MainWindow.g.cs
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\OpenURL.g.cs
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\App.g.cs
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation_MarkupCompile.cache
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation_MarkupCompile.lref
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\MainWindow.baml
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\OpenURL.baml
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.g.resources
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML_Tree_Visualisation.Properties.Resources.resources
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.csproj.GenerateResource.cache
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.csproj.CoreCompileInputs.cache
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.exe
+F:\my_projects\c#_projects\Studying-main\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.pdb
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\bin\Debug\XML Tree Visualisation.exe.config
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\bin\Debug\XML Tree Visualisation.exe
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\bin\Debug\XML Tree Visualisation.pdb
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\MainWindow.g.cs
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\OpenURL.g.cs
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\App.g.cs
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation_MarkupCompile.cache
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation_MarkupCompile.lref
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\MainWindow.baml
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\OpenURL.baml
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.g.resources
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML_Tree_Visualisation.Properties.Resources.resources
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.csproj.GenerateResource.cache
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.exe
+C:\Users\petya\Desktop\Studying-main\XML Tree Visualisation\obj\Debug\XML Tree Visualisation.pdb

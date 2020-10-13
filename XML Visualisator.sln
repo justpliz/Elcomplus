@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML Visualisator", "XML Visualisator\XML Visualisator.csproj", "{1B2871AE-CB49-461D-B864-C8FEE0711521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2871AE-CB49-461D-B864-C8FEE0711521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2871AE-CB49-461D-B864-C8FEE0711521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2871AE-CB49-461D-B864-C8FEE0711521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2871AE-CB49-461D-B864-C8FEE0711521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0CCF915-EF02-4E5E-9CC7-201B3F85C01A}
+	EndGlobalSection
+EndGlobal
